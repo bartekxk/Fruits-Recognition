@@ -1,5 +1,5 @@
 # Fruits-Recognition
-Fruits Recognition using tensorflow and keras libraries. Dataset was taken from kaggle website. With validation.py script we can upload any fruit image and recognize them.
+Fruits Recognition using tensorflow and keras libraries. Dataset was taken from kaggle website. With validation.py script we can upload any fruit image and recognize it.
 
 ## Model 
     tf.keras.layers.Conv2D(filters=32, padding='same', kernel_size=(2, 2), activation='relu', input_shape=(100,100,3)),
